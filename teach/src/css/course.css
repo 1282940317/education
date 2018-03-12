@@ -1,0 +1,321 @@
+/*course*/
+
+.content {
+	width: 100%;
+}
+
+.content_con {
+	width: 857px;
+	padding-top: 5%;
+	padding-bottom: 40%;
+}
+
+.content_content {
+	width: 100%;
+	position: relative;
+}
+
+.content_content_a div {
+	width: 10%;
+	text-align: center;
+	line-height: 3;
+	display: inline-block;
+	background: url(../img/652872642033136722.png) no-repeat;
+	background-size: 100% 100%;
+	font-size: 14px;
+	margin-left: 7%;
+}
+
+.content_content_a div:nth-child(1),
+.content_content_b div:nth-child(1),
+.content_content_c div:nth-child(1),
+.content_content_d div:nth-child(1),
+.content_content_e div:nth-child(1),
+.content_content_f div:nth-child(1),
+.content_content_g div:nth-child(1),
+.content_content_h div:nth-child(1),
+.content_content_i div:nth-child(1),
+.content_content_k div:nth-child(1),
+.content_content_l div:nth-child(1) {
+	color: #f6ce00;
+}
+
+.content_content_a div:nth-child(2),
+.content_content_b div:nth-child(2),
+.content_content_c div:nth-child(2),
+.content_content_d div:nth-child(2),
+.content_content_e div:nth-child(2),
+.content_content_f div:nth-child(2),
+.content_content_g div:nth-child(2),
+.content_content_h div:nth-child(2),
+.content_content_i div:nth-child(2),
+.content_content_k div:nth-child(2),
+.content_content_l div:nth-child(2) {
+	color: #e994dc;
+}
+
+.content_content_a div:nth-child(3),
+.content_content_b div:nth-child(3),
+.content_content_c div:nth-child(3),
+.content_content_d div:nth-child(3),
+.content_content_e div:nth-child(3),
+.content_content_f div:nth-child(3),
+.content_content_g div:nth-child(3),
+.content_content_h div:nth-child(3),
+.content_content_i div:nth-child(3),
+.content_content_k div:nth-child(3),
+.content_content_l div:nth-child(3) {
+	color: #9985cc;
+}
+
+.content_content_a div:nth-child(4),
+.content_content_b div:nth-child(4),
+.content_content_c div:nth-child(4),
+.content_content_d div:nth-child(4),
+.content_content_e div:nth-child(4),
+.content_content_f div:nth-child(4),
+.content_content_g div:nth-child(4),
+.content_content_h div:nth-child(4),
+.content_content_i div:nth-child(4),
+.content_content_k div:nth-child(4),
+.content_content_l div:nth-child(4) {
+	color: #848d99;
+}
+
+.content_content_a div:nth-child(5),
+.content_content_b div:nth-child(5),
+.content_content_c div:nth-child(5),
+.content_content_d div:nth-child(5),
+.content_content_e div:nth-child(5),
+.content_content_f div:nth-child(5),
+.content_content_g div:nth-child(5),
+.content_content_h div:nth-child(5),
+.content_content_i div:nth-child(5),
+.content_content_k div:nth-child(5),
+.content_content_l div:nth-child(5) {
+	color: #8dd58b;
+}
+
+.content_content_b {
+	width: 100%;
+	position: absolute;
+	top: 43px;
+	right: -73px;
+}
+
+.content_content_b div {
+	width: 10%;
+	text-align: center;
+	line-height: 3;
+	display: inline-block;
+	background: url(../img/652872642033136722.png) no-repeat;
+	background-size: 100% 100%;
+	font-size: 14px;
+	margin-left: 7%;
+}
+
+.content_content_c {
+	width: 100%;
+	position: absolute;
+	top: 92px;
+	right: -146px;
+}
+
+.content_content_c div {
+	width: 10%;
+	text-align: center;
+	line-height: 6;
+	display: inline-block;
+	background: url(../img/652872642033136722.png) no-repeat;
+	background-size: 100% 100%;
+	font-size: 14px;
+	margin-left: 7%;
+}
+
+.content_content_d {
+	width: 100%;
+	position: absolute;
+	top: 135px;
+	right: -73px;
+}
+
+.content_content_d div {
+	width: 10%;
+	text-align: center;
+	line-height: 3;
+	display: inline-block;
+	background: url(../img/652872642033136722.png) no-repeat;
+	background-size: 100% 100%;
+	font-size: 14px;
+	margin-left: 7%;
+}
+
+.content_content_d div:nth-child(4) {
+	width: 10%;
+	line-height: 6;
+	position: absolute;
+	margin-left: 62px;
+}
+
+.content_content_e {
+	width: 100%;
+	position: absolute;
+	top: 183px;
+	right: 0px;
+}
+
+.content_content_e div {
+	width: 10%;
+	text-align: center;
+	line-height: 6;
+	display: inline-block;
+	background: url(../img/652872642033136722.png) no-repeat;
+	background-size: 100% 100%;
+	font-size: 14px;
+	margin-left: 7%;
+}
+
+.content_content_e div:nth-child(5) {
+	width: 10%;
+	line-height: 3;
+	position: absolute;
+	margin-left: 62px;
+}
+
+.content_content_f {
+	width: 100%;
+	position: absolute;
+	top: 230px;
+	right: -73px;
+}
+
+.content_content_f div {
+	width: 10%;
+	text-align: center;
+	line-height: 6;
+	display: inline-block;
+	background: url(../img/652872642033136722.png) no-repeat;
+	background-size: 100% 100%;
+	font-size: 14px;
+	margin-left: 7%;
+}
+
+.content_content_g {
+	width: 100%;
+	position: absolute;
+	top: 279px;
+	right: -148px;
+}
+
+.content_content_g div {
+	width: 10%;
+	text-align: center;
+	line-height: 3;
+	display: inline-block;
+	background: url(../img/652872642033136722.png) no-repeat;
+	background-size: 100% 100%;
+	font-size: 14px;
+	margin-left: 7%;
+}
+
+.content_content_g div:nth-child(3) {
+	width: 10%;
+	line-height: 6;
+	position: absolute;
+	/*margin-left: 62px;*/
+}
+
+.content_content_h {
+	width: 100%;
+	position: absolute;
+	top: 329px;
+	right: -219px;
+}
+
+.content_content_h div {
+	width: 10%;
+	text-align: center;
+	line-height: 3;
+	display: inline-block;
+	background: url(../img/652872642033136722.png) no-repeat;
+	background-size: 100% 100%;
+	font-size: 14px;
+	margin-left: 7%;
+}
+
+.content_content_h div:nth-child(1) {
+	width: 10%;
+	line-height: 6;
+	position: absolute;
+	top: 0px;
+	margin-left: -86px;
+}
+
+.content_content_i {
+	width: 100%;
+	position: absolute;
+	top: 376px;
+	right: -147px;
+}
+
+.content_content_i div {
+	width: 10%;
+	text-align: center;
+	line-height: 3;
+	display: inline-block;
+	background: url(../img/652872642033136722.png) no-repeat;
+	background-size: 100% 100%;
+	font-size: 14px;
+	margin-left: 7%;
+}
+
+.content_content_i div:nth-child(1) {
+	width: 10%;
+	line-height: 6;
+	position: absolute;
+	top: 0px;
+	margin-left: -86px;
+}
+
+.content_content_k {
+	width: 100%;
+	position: absolute;
+	top: 425px;
+	right: -220px;
+}
+
+.content_content_k div {
+	width: 10%;
+	text-align: center;
+	line-height: 3;
+	display: inline-block;
+	background: url(../img/652872642033136722.png) no-repeat;
+	background-size: 100% 100%;
+	font-size: 14px;
+	margin-left: 7%;
+}
+
+.content_content_k div:nth-child(1) {
+	width: 10%;
+	line-height: 6;
+	position: absolute;
+	margin-left: -86px;
+}
+
+.content_content_l {
+	width: 100%;
+	position: absolute;
+	top: 474px;
+	right: -147px;
+}
+
+.content_content_l div {
+	width: 10%;
+	text-align: center;
+	line-height: 3;
+	display: inline-block;
+	background: url(../img/652872642033136722.png) no-repeat;
+	background-size: 100% 100%;
+	font-size: 14px;
+	margin-left: 7%;
+}
